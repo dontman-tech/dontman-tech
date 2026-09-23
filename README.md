@@ -14,7 +14,7 @@ I take an idea from a blank repo to something a stranger can use — voice assis
 | :--- | :--- |
 | **Brain** | 🧠 Deepening distributed systems & on-device ML |
 | **Coffee Level** | ☕ High-Performance Mode |
-| **Current Project** | 🎙️ [ARIA](https://github.com/dontman-tech/aria-ai) — an AI assistant that actually controls the phone |
+| **Current Project** | 🎙️ [ARIA](https://github.com/dontman-tech/aria-ai) — an AI assistant that actually controls my tech |
 | **Also Building** | ♻️ [Re-kollect](https://github.com/dontman-tech/rekollect) — getting waste collected in Cameroonian cities |
 | **Mood** | 🚀 Shipping to the device, not just to the repo |
 
