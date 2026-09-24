@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tamif!
+# 👋 Hello, I'm Tabe!
 
 ### 🚀 Full-Stack & Applied AI Engineer | Mobile Developer
 
@@ -14,8 +14,8 @@ I take an idea from a blank repo to something a stranger can use — voice assis
 | :--- | :--- |
 | **Brain** | 🧠 Deepening distributed systems & on-device ML |
 | **Coffee Level** | ☕ High-Performance Mode |
-| **Current Project** | 🎙️ [ARIA](https://github.com/dontman-tech/aria-ai) — an AI assistant that actually controls my tech |
-| **Also Building** | ♻️ [Re-kollect](https://github.com/dontman-tech/rekollect) — getting waste collected in Cameroonian cities |
+| **Current Project** | 🎙️ [ARIA](https://github.com/dontman-tech/aria-ai) — an AI assistant that actually controls the phone |
+| **Also Building** | ♻️ [Re-kollect](https://github.com/dontman-tech/rekollect) — getting waste collected in cities that lack a system |
 | **Mood** | 🚀 Shipping to the device, not just to the repo |
 
 ---
@@ -23,8 +23,10 @@ I take an idea from a blank repo to something a stranger can use — voice assis
 ### 🌟 Recent Innovations
 
 - **🎙️ ARIA** — A voice-enabled assistant (Python brain + Kotlin Android bridge) with a skill router that scores speech against regex and keyword patterns before ever reaching for an LLM. 14 modular skills, 4 LLM backends, installable as a PWA, and a kill switch that halts everything at once.
-- **♻️ Re-kollect** — A two-role Flutter marketplace for waste pickup where no system owns the last mile: live request sync, Firestore lifecycle, OpenStreetMap + Nominatim geocoding, FCM fan-out. Built from PRD to working MVP.
+- **♻️ Re-kollect** — A two-role Flutter marketplace for waste pickup where no system owns the last mile: live request sync, Firestore lifecycle, OpenStreetMap + Nominatim geocoding, FCM fan-out. Built from PRD to working MVP, and 3rd place at the Orange Code for Change Hackathon.
 - **🏃 Pulse Fit** — A cross-platform fitness tracker (React Native + Expo + Reanimated) with 5 curated workout plans, animated activity rings, and two-way Apple HealthKit / Google Fit sync.
+- **✨ Lumina** — An AI platform architected and deployed in 15 hours with a 3-person team, wiring Supabase and the DeepSeek API together for the Prometheus AI Hackathon. 4th place finalist.
+- **🔐 NESAC** — A password strength checker (Python + Flask) that doesn't just score a password, it explains each weakness in plain language and suggests a stronger passphrase.
 - **✋ Air Canvas** — Draw in the air with your finger. Webcam hand landmarks mapped onto a 5-state gesture machine with a 6-colour palette. The smallest project I've built and the one that taught me the most about latency.
 - **🔎 Spark** — An AI-powered browser that centralises smart search, Wikipedia lookups, live weather and current news into a single interface.
 
@@ -69,30 +71,33 @@ I take an idea from a blank repo to something a stranger can use — voice assis
 
 ---
 
-### 🌐 Social Links
+### 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://linkedin.com/in/tabe-miracle-fiagmenyi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/dontman-tech">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://dontman-tech.github.io/portfolio/">
+  <a href="https://tamif.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:tamif@dontman.tech">
+  <a href="mailto:tabe7143@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dontman-tech.github.io/portfolio/assets/resume/Tamif-Dontman-Resume.pdf">
+  <a href="https://tamif.is-a.dev/assets/resume/Tabe-Miracle-Fiagmenyi-Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-2F855A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 ---
 
-### ⌨️ Terminal
+### ⌨️ Terminal Command
 
 ```bash
 $ whoami
-tamif dontman — full-stack & applied-AI engineer
+tabe miracle fiagmenyi — full-stack & applied-AI engineer
 
 $ cat ~/.motto
 "A model or a screen is only half the product — the other half is the
