@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tabe!
+# 👋 Hello, I'm TAMIF!
 
 ### 🚀 Full-Stack & Applied AI Engineer | Mobile Developer
 
